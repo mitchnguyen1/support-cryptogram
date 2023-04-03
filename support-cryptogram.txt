@@ -1,17 +1,28 @@
+Before: 
 AJCJC | LZPD-LDYFDZIIPQF | 
 ZEWPBYD ICCUPQFB | 
 ICBBZFC PQBUDJKUYD YD ICQUYD
 
-QUEUE Pzpd-PdOfdzMMpNf -post problem?
-zewpbOd MEEupNfb
-MEbbzfE pAbudUkuOd Od MENuOd
+After:
+QUEUE PAIR-PROGRAMMING
+ADVISOR MEETINGS
+MESSAGE INSTRUCTOR OR MENTOR
 
-
+Key:
+E = D 
+W = v
+K = C
+B = S
+F = G
+Z = A
+F = G
+P = I
+U = T
+D = R
 A = Q
 C = E
 I = M
-L=P
-Q=N
+L = P
+Q = N
 Y = O
 J = U
-D=R
